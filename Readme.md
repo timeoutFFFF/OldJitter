@@ -38,4 +38,4 @@ Some solution write-up:
 - https://theromanxpl0it.github.io/articles/2019/09/09/Trend-Micro-CTF-ChakraCore-JIT-exploitation.html
 
 
-Special thanks [zebasquared](https://twitter.com/zebasquared) 
+Special thanks to [zebasquared](https://twitter.com/zebasquared) 
