@@ -8,7 +8,7 @@ Directory Structure:
 - PoCs: contains JS exploit code which successfully gets the flag.
 - Challenge: contains the OldJitter challenge.  
 
-Even though the challenge was easy from a development perspective, but I made 2 mistakes while developing this simple challenge. 
+Even though the challenge was easy from the development perspective, but I made 2 mistakes while developing this simple challenge. 
  
 First, some participants knew a trick to read the file from the system (without exploitation). The interesting thing is the first 5-6 teams obtain the flag using such trick and remaining teams, who successfully submitted the flag, got the flag by exploiting the vulnerability.
 
