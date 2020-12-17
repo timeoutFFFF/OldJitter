@@ -31,7 +31,7 @@ The second mistake was Security101 mistake. I didn't set the permission of the f
 
 
 
-Some solution write-up:
+- Solutions write-up:
 
 - https://gist.github.com/itszn/3277e8aa56c91f8296d88d25d96df717 
 - https://balsn.tw/ctf_writeup/20190906-trendmicroctfqual/#400
